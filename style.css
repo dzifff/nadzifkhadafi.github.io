@@ -4,7 +4,7 @@
 }
 
 #projects {
-  background-color: #e2edff;
+  background-color: #bfbfbf;
 }
 
 section {
@@ -12,3 +12,11 @@ section {
 }
 
 /* e2edff */
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
