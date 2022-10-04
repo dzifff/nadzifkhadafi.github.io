@@ -72,7 +72,7 @@ a {
   font-size: 20px;
 } */
 
-.input [type="checkbox"] {
+/* .input [type="checkbox"] {
   height: 0;
   width: 0;
   visibility: hidden;
@@ -120,4 +120,4 @@ a {
 
 .label:active:after {
   width: 30px;
-}
+} */
